@@ -1,0 +1,1 @@
+validate: [validator.isEmail,'Sorry Email Not Valid']
